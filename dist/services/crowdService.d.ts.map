@@ -1,0 +1,1 @@
+{"version":3,"file":"crowdService.d.ts","sourceRoot":"","sources":["../../src/services/crowdService.ts"],"names":[],"mappings":"AAsBA,wBAAgB,aAAa,CAAC,SAAS,EAAE,MAAM,GAAG,MAAM,CAMvD;AAED,wBAAgB,aAAa,CAAC,SAAS,EAAE,MAAM,EAAE,KAAK,EAAE,MAAM,GAAG,IAAI,CAMpE;AAED,wBAAgB,kBAAkB,CAChC,MAAM,EAAE,MAAM,EACd,IAAI,EAAE,MAAM,EACZ,UAAU,EAAE,MAAM,EAClB,KAAK,EAAE,MAAM,GACZ,MAAM,CAGR"}
