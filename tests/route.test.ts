@@ -2,6 +2,7 @@ import request from 'supertest';
 import { app } from '../src/server';
 
 jest.mock('../src/graph/loader', () => {
+  // eslint-disable-next-line @typescript-eslint/no-var-requires
   const { MetroGraph } = require('../src/graph/graph');
 
   const graph = new MetroGraph();

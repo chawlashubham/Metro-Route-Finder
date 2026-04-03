@@ -40,6 +40,7 @@ class MinHeap {
 
   private sinkDown(i: number): void {
     const n = this.heap.length;
+    // eslint-disable-next-line no-constant-condition
     while (true) {
       let smallest = i;
       const left = 2 * i + 1;

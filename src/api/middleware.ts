@@ -20,6 +20,7 @@ export interface AppError extends Error {
   code?: string;
 }
 
+// Express error handlers must declare 4 parameters to be recognised as such
 export function errorHandler(
   err: AppError,
   _req: Request,
