@@ -1,0 +1,752 @@
+[
+  {
+    "from": "red-rithala",
+    "to": "red-rohini-west",
+    "weight": 150,
+    "line": "Red"
+  },
+  {
+    "from": "red-rohini-west",
+    "to": "red-rohini-east",
+    "weight": 150,
+    "line": "Red"
+  },
+  {
+    "from": "red-rohini-east",
+    "to": "red-pitampura",
+    "weight": 150,
+    "line": "Red"
+  },
+  {
+    "from": "red-pitampura",
+    "to": "red-kohat-enclave",
+    "weight": 150,
+    "line": "Red"
+  },
+  {
+    "from": "red-kohat-enclave",
+    "to": "red-netaji-subhash-place",
+    "weight": 150,
+    "line": "Red"
+  },
+  {
+    "from": "red-netaji-subhash-place",
+    "to": "red-keshav-puram",
+    "weight": 150,
+    "line": "Red"
+  },
+  {
+    "from": "red-keshav-puram",
+    "to": "red-kanhaiya-nagar",
+    "weight": 150,
+    "line": "Red"
+  },
+  {
+    "from": "red-kanhaiya-nagar",
+    "to": "red-inderlok",
+    "weight": 150,
+    "line": "Red"
+  },
+  {
+    "from": "red-inderlok",
+    "to": "red-shastri-nagar",
+    "weight": 150,
+    "line": "Red"
+  },
+  {
+    "from": "red-shastri-nagar",
+    "to": "red-pratap-nagar",
+    "weight": 150,
+    "line": "Red"
+  },
+  {
+    "from": "red-pratap-nagar",
+    "to": "red-pulbangash",
+    "weight": 150,
+    "line": "Red"
+  },
+  {
+    "from": "red-pulbangash",
+    "to": "red-tis-hazari",
+    "weight": 150,
+    "line": "Red"
+  },
+  {
+    "from": "red-tis-hazari",
+    "to": "red-kashmere-gate",
+    "weight": 150,
+    "line": "Red"
+  },
+  {
+    "from": "red-kashmere-gate",
+    "to": "red-shastri-park",
+    "weight": 150,
+    "line": "Red"
+  },
+  {
+    "from": "red-shastri-park",
+    "to": "red-seelampur",
+    "weight": 150,
+    "line": "Red"
+  },
+  {
+    "from": "red-seelampur",
+    "to": "red-welcome",
+    "weight": 150,
+    "line": "Red"
+  },
+  {
+    "from": "red-welcome",
+    "to": "red-shahdara",
+    "weight": 150,
+    "line": "Red"
+  },
+  {
+    "from": "red-shahdara",
+    "to": "red-mansarovar-park",
+    "weight": 150,
+    "line": "Red"
+  },
+  {
+    "from": "red-mansarovar-park",
+    "to": "red-jhilmil",
+    "weight": 150,
+    "line": "Red"
+  },
+  {
+    "from": "red-jhilmil",
+    "to": "red-dilshad-garden",
+    "weight": 150,
+    "line": "Red"
+  },
+  {
+    "from": "yellow-jahangirpuri",
+    "to": "yellow-adarsh-nagar",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-adarsh-nagar",
+    "to": "yellow-azadpur",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-azadpur",
+    "to": "yellow-model-town",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-model-town",
+    "to": "yellow-gtb-nagar",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-gtb-nagar",
+    "to": "yellow-vishwavidyalaya",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-vishwavidyalaya",
+    "to": "yellow-vidhan-sabha",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-vidhan-sabha",
+    "to": "yellow-civil-lines",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-civil-lines",
+    "to": "yellow-kashmere-gate",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-kashmere-gate",
+    "to": "yellow-chandni-chowk",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-chandni-chowk",
+    "to": "yellow-chawri-bazar",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-chawri-bazar",
+    "to": "yellow-new-delhi",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-new-delhi",
+    "to": "yellow-rajiv-chowk",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-rajiv-chowk",
+    "to": "yellow-patel-chowk",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-patel-chowk",
+    "to": "yellow-central-secretariat",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-central-secretariat",
+    "to": "yellow-udyog-bhawan",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-udyog-bhawan",
+    "to": "yellow-race-course",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-race-course",
+    "to": "yellow-jor-bagh",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-jor-bagh",
+    "to": "yellow-ina",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-ina",
+    "to": "yellow-aiims",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-aiims",
+    "to": "yellow-green-park",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-green-park",
+    "to": "yellow-hauz-khas",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-hauz-khas",
+    "to": "yellow-malviya-nagar",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-malviya-nagar",
+    "to": "yellow-saket",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-saket",
+    "to": "yellow-qutab-minar",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-qutab-minar",
+    "to": "yellow-chhatarpur",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-chhatarpur",
+    "to": "yellow-sultanpur",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-sultanpur",
+    "to": "yellow-ghitorni",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-ghitorni",
+    "to": "yellow-arjangarh",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-arjangarh",
+    "to": "yellow-guru-dronacharya",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-guru-dronacharya",
+    "to": "yellow-sikandarpur",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-sikandarpur",
+    "to": "yellow-mg-road",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-mg-road",
+    "to": "yellow-iffco-chowk",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "yellow-iffco-chowk",
+    "to": "yellow-huda-city-centre",
+    "weight": 150,
+    "line": "Yellow"
+  },
+  {
+    "from": "blue-dwarka-sec21",
+    "to": "blue-dwarka",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-dwarka",
+    "to": "blue-dwarka-mor",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-dwarka-mor",
+    "to": "blue-nawada",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-nawada",
+    "to": "blue-uttam-nagar-west",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-uttam-nagar-west",
+    "to": "blue-uttam-nagar-east",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-uttam-nagar-east",
+    "to": "blue-janakpuri-west",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-janakpuri-west",
+    "to": "blue-janakpuri-east",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-janakpuri-east",
+    "to": "blue-tilak-nagar",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-tilak-nagar",
+    "to": "blue-subhash-nagar",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-subhash-nagar",
+    "to": "blue-tagore-garden",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-tagore-garden",
+    "to": "blue-rajouri-garden",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-rajouri-garden",
+    "to": "blue-ramesh-nagar",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-ramesh-nagar",
+    "to": "blue-moti-nagar",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-moti-nagar",
+    "to": "blue-kirti-nagar",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-kirti-nagar",
+    "to": "blue-shadipur",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-shadipur",
+    "to": "blue-patel-nagar",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-patel-nagar",
+    "to": "blue-rajendra-place",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-rajendra-place",
+    "to": "blue-karol-bagh",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-karol-bagh",
+    "to": "blue-jhandewalan",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-jhandewalan",
+    "to": "blue-ramakrishna-ashram-marg",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-ramakrishna-ashram-marg",
+    "to": "blue-rajiv-chowk",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-rajiv-chowk",
+    "to": "blue-barakhamba-road",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-barakhamba-road",
+    "to": "blue-mandi-house",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-mandi-house",
+    "to": "blue-pragati-maidan",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-pragati-maidan",
+    "to": "blue-indraprastha",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-indraprastha",
+    "to": "blue-yamuna-bank",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-yamuna-bank",
+    "to": "blue-laxmi-nagar",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-laxmi-nagar",
+    "to": "blue-nirman-vihar",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-nirman-vihar",
+    "to": "blue-preet-vihar",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-preet-vihar",
+    "to": "blue-karkarduma",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-karkarduma",
+    "to": "blue-anand-vihar",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-anand-vihar",
+    "to": "blue-kaushambi",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "blue-kaushambi",
+    "to": "blue-vaishali",
+    "weight": 150,
+    "line": "Blue"
+  },
+  {
+    "from": "green-inderlok",
+    "to": "green-ashok-park-main",
+    "weight": 150,
+    "line": "Green"
+  },
+  {
+    "from": "green-ashok-park-main",
+    "to": "green-satguru-ram-singh-marg",
+    "weight": 150,
+    "line": "Green"
+  },
+  {
+    "from": "green-satguru-ram-singh-marg",
+    "to": "green-kirti-nagar",
+    "weight": 150,
+    "line": "Green"
+  },
+  {
+    "from": "green-kirti-nagar",
+    "to": "green-punjabi-bagh",
+    "weight": 150,
+    "line": "Green"
+  },
+  {
+    "from": "green-punjabi-bagh",
+    "to": "green-shivaji-park",
+    "weight": 150,
+    "line": "Green"
+  },
+  {
+    "from": "green-shivaji-park",
+    "to": "green-madipur",
+    "weight": 150,
+    "line": "Green"
+  },
+  {
+    "from": "green-madipur",
+    "to": "green-paschim-vihar-east",
+    "weight": 150,
+    "line": "Green"
+  },
+  {
+    "from": "green-paschim-vihar-east",
+    "to": "green-paschim-vihar-west",
+    "weight": 150,
+    "line": "Green"
+  },
+  {
+    "from": "green-paschim-vihar-west",
+    "to": "green-peeragarhi",
+    "weight": 150,
+    "line": "Green"
+  },
+  {
+    "from": "green-peeragarhi",
+    "to": "green-udyog-nagar",
+    "weight": 150,
+    "line": "Green"
+  },
+  {
+    "from": "green-udyog-nagar",
+    "to": "green-surajmal-stadium",
+    "weight": 150,
+    "line": "Green"
+  },
+  {
+    "from": "green-surajmal-stadium",
+    "to": "green-nangloi",
+    "weight": 150,
+    "line": "Green"
+  },
+  {
+    "from": "green-nangloi",
+    "to": "green-nangloi-railway-station",
+    "weight": 150,
+    "line": "Green"
+  },
+  {
+    "from": "green-nangloi-railway-station",
+    "to": "green-rajdhani-park",
+    "weight": 150,
+    "line": "Green"
+  },
+  {
+    "from": "green-rajdhani-park",
+    "to": "green-mundka",
+    "weight": 150,
+    "line": "Green"
+  },
+  {
+    "from": "violet-mandi-house",
+    "to": "violet-supreme-court",
+    "weight": 150,
+    "line": "Violet"
+  },
+  {
+    "from": "violet-supreme-court",
+    "to": "violet-indraprastha-violet",
+    "weight": 150,
+    "line": "Violet"
+  },
+  {
+    "from": "violet-indraprastha-violet",
+    "to": "violet-central-secretariat",
+    "weight": 150,
+    "line": "Violet"
+  },
+  {
+    "from": "violet-central-secretariat",
+    "to": "violet-khan-market",
+    "weight": 150,
+    "line": "Violet"
+  },
+  {
+    "from": "violet-khan-market",
+    "to": "violet-jln-stadium",
+    "weight": 150,
+    "line": "Violet"
+  },
+  {
+    "from": "violet-jln-stadium",
+    "to": "violet-jangpura",
+    "weight": 150,
+    "line": "Violet"
+  },
+  {
+    "from": "violet-jangpura",
+    "to": "violet-lajpat-nagar",
+    "weight": 150,
+    "line": "Violet"
+  },
+  {
+    "from": "violet-lajpat-nagar",
+    "to": "violet-moolchand",
+    "weight": 150,
+    "line": "Violet"
+  },
+  {
+    "from": "violet-moolchand",
+    "to": "violet-kailash-colony",
+    "weight": 150,
+    "line": "Violet"
+  },
+  {
+    "from": "violet-kailash-colony",
+    "to": "violet-nehru-place",
+    "weight": 150,
+    "line": "Violet"
+  },
+  {
+    "from": "violet-nehru-place",
+    "to": "violet-kalkaji-mandir",
+    "weight": 150,
+    "line": "Violet"
+  },
+  {
+    "from": "violet-kalkaji-mandir",
+    "to": "violet-govind-puri",
+    "weight": 150,
+    "line": "Violet"
+  },
+  {
+    "from": "violet-govind-puri",
+    "to": "violet-okhla",
+    "weight": 150,
+    "line": "Violet"
+  },
+  {
+    "from": "violet-okhla",
+    "to": "violet-jasola-apollo",
+    "weight": 150,
+    "line": "Violet"
+  },
+  {
+    "from": "violet-jasola-apollo",
+    "to": "violet-sarita-vihar",
+    "weight": 150,
+    "line": "Violet"
+  },
+  {
+    "from": "violet-sarita-vihar",
+    "to": "violet-mohan-estate",
+    "weight": 150,
+    "line": "Violet"
+  },
+  {
+    "from": "violet-mohan-estate",
+    "to": "violet-tughlakabad",
+    "weight": 150,
+    "line": "Violet"
+  },
+  {
+    "from": "violet-tughlakabad",
+    "to": "violet-badarpur",
+    "weight": 150,
+    "line": "Violet"
+  },
+  {
+    "from": "red-kashmere-gate",
+    "to": "yellow-kashmere-gate",
+    "weight": 300,
+    "line": "transfer"
+  },
+  {
+    "from": "yellow-rajiv-chowk",
+    "to": "blue-rajiv-chowk",
+    "weight": 300,
+    "line": "transfer"
+  },
+  {
+    "from": "yellow-central-secretariat",
+    "to": "violet-central-secretariat",
+    "weight": 300,
+    "line": "transfer"
+  },
+  {
+    "from": "red-inderlok",
+    "to": "green-inderlok",
+    "weight": 300,
+    "line": "transfer"
+  },
+  {
+    "from": "blue-kirti-nagar",
+    "to": "green-kirti-nagar",
+    "weight": 300,
+    "line": "transfer"
+  },
+  {
+    "from": "blue-mandi-house",
+    "to": "violet-mandi-house",
+    "weight": 300,
+    "line": "transfer"
+  }
+]
